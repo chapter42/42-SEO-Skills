@@ -1,0 +1,58 @@
+# === Geheimen ===
+.env
+.env.local
+.env.*.local
+*.key
+*_service_account*.json
+gsc-service-account.json
+
+# === Klantdata (nooit committen) ===
+42-reports/
+NOSHARE/
+
+# === Dev cruft ===
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+node_modules/
+
+# === IDE ===
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# === Archief / niet in plugin ===
+_archive/
+input/
+skillsCreator-definitions/
+docs/
+claude-seo/
+
+# === Oude output-snapshots ===
+output-2026-*/
+output-2025-*/
+
+# === Test-output ===
+/tmp/
+tmp/
+*.log
+*.tmp
+
+# === Playwright / browser caches ===
+.cache/
+.playwright/
+
+# === Oude pre-plugin setup (symlinks naar skill-bundles/seo) ===
+.claude/
+
+# === Lock/state files (per-project) ===
+STATE.md

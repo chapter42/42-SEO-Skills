@@ -1,0 +1,5 @@
+{
+  "name": "Full",
+  "description": "Alle skills actief — voor agency-werk of wanneer je niet weet welk profiel past. Kies disabledSkills handmatig via .claude/settings.local.json als je wilt filteren.",
+  "skills": "*"
+}

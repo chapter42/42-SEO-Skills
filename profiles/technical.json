@@ -1,0 +1,27 @@
+{
+  "name": "Technical SEO",
+  "description": "Hreflang, sitemap, schema, migrations, crawlability, CWV — geen content-generation",
+  "skills": [
+    "42-init",
+    "42-status",
+    "42-seo-project",
+    "42-audit",
+    "42-technical",
+    "42-hreflang",
+    "42-sitemap",
+    "42-structured-data",
+    "42-crawlers",
+    "42-llmstxt",
+    "42-migration",
+    "42-screaming-frog",
+    "42-page-health",
+    "42-images",
+    "42-internal-links",
+    "42-link-graph",
+    "42-near-duplicates",
+    "42-cannibalization",
+    "42-striking-distance",
+    "42-page-analysis",
+    "42-blog-schema"
+  ]
+}

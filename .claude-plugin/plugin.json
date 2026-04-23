@@ -1,0 +1,24 @@
+{
+  "name": "42-seo-skills",
+  "version": "1.0.0",
+  "description": "60 SEO & GEO skills for Claude Code — audit, content, technical SEO, GEO/AI-search, e-commerce, blog, crawling, keyword research, and reporting. Run /42-init in any project to bootstrap a skill profile, venv, and auth.",
+  "author": {
+    "name": "Chapter42",
+    "url": "https://chapter42.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/chapter42/42-SEO-Skills",
+  "repository": "https://github.com/chapter42/42-SEO-Skills",
+  "keywords": [
+    "seo",
+    "geo",
+    "ai-search",
+    "audit",
+    "content",
+    "technical-seo",
+    "ecommerce",
+    "keyword-research",
+    "schema",
+    "crawling"
+  ]
+}
